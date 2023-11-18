@@ -21,7 +21,7 @@
 # SKULL  
 ![](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-![skull-theme](https://i.imgur.com/78kpS2D.png)  
+![skull-theme](https://i.imgur.com/ZnTjdji.png)  
 
 ## Installation
 
@@ -29,11 +29,13 @@ Install manually or use a package manager:
 
 ```viml
 " vim-plug
-Plug 'kadekillary/skull-vim'
+Plug 'secondary-smiles/skull-vim'
 " NeoBundle
-NeoBundle 'kadekillary/skull-vim'
+NeoBundle 'secondary-smiles/skull-vim'
 " Vundle
-Plugin 'kadekillary/skull-vim'
+Plugin 'secondary-smiles/skull-vim'
+" Packer
+use 'secondary-smiles/skull-vim'
 ```
 
 ```viml

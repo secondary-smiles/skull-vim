@@ -40,7 +40,6 @@ hi VisualNOS       guifg=#7eae81    guibg=#2c2c2c    ctermfg=white    ctermbg=bl
 hi Constant        guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 hi DiffAdd         guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 hi Number          guifg=#707070    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
-hi Pmenu           guifg=#7eae81    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
 hi String          guifg=#d3d3d3    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 
 "" grey fg w/white bg
@@ -69,7 +68,8 @@ hi MoreMsg         guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=bl
 hi NonText         guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi Normal          guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi PmenuSbar       guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
-hi PmenuSel        guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
+hi Pmenu           guifg=#A0A0A0    guibg=#333333    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
+hi PmenuSel        guifg=#7eae81    guibg=#444444    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=NONE
 hi PmenuThumb      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi PreProc         guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
 
@@ -79,7 +79,7 @@ hi Operator        guifg=#7eae81    guibg=#222222    ctermfg=grey     ctermbg=bl
 hi SpecialKey      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
 hi Statement       guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
 
-hi StatusLine      guifg=#000000    guibg=#7eae81    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
+hi StatusLine      guifg=#7eae81    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 
 hi StatusLineNC    guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
 hi StorageClass    guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD

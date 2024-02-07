@@ -48,9 +48,8 @@ hi @string         guifg=#d3d3d3    guibg=#222222    ctermfg=white    ctermbg=bl
 hi String          guifg=#d3d3d3    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 
 "" grey fg w/white bg
-
 hi CursorColumn    guifg=#FFFFFF    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
-hi ColorColumn     guifg=#2c2c2c    guibg=#2c2c2c    ctermfg=black    ctermbg=black
+hi ColorColumn     guifg=#A0A0A0    guibg=#2c2c2c    ctermfg=grey     ctermbg=black
 hi CursorLine      guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 hi CursorLineNr    guifg=#7eae81    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 
@@ -65,7 +64,6 @@ hi Directory       guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=bl
 
 hi @error          guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi Error           guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
-
 hi Folded          guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 
 hi @function       guifg=#7c7c7c    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
